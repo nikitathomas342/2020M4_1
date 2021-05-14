@@ -1,0 +1,40 @@
+h1 {
+    text-align:center;
+    font-size:36px;
+    font-weight:bold;
+    color:darkblue;
+}
+h2 {
+    text-align:left;
+    font-size:28px;
+    font-weight:bold;
+    color:darkblue;
+}
+h3 {
+    text-align:left;
+    font-size:24px;
+    font-weight:bold;
+    color:darkblue;
+}
+.general_ed ul li{
+    background-color: #8D6350;
+}
+.general_ed {
+    background-color: #B8775D;
+}
+.general_ed2{
+    background-color: #9E6955;
+}
+.general_ed3 li{
+    background-color: #B8755D;
+}
+.passed {
+    background-color: lightgreen;
+}
+.studying{
+    background-color: lightblue;
+}
+.image{
+    width:250px;
+    height:250px;
+}

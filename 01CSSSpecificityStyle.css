@@ -1,0 +1,18 @@
+div {
+	color: black;
+}
+#div1 {
+	color: green;
+}
+div #x1 {
+	color: red;
+}
+.x2 {
+	color: teal;
+}
+span {
+	color: blue;
+}
+#x2{
+	color: purple;
+}
